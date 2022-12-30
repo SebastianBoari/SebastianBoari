@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sebastian Boari and I'm a web developer from Argentina.</p>
+<p align="left">My name is Sebastian and I'm a web developer from Argentina.</p>
 
 ###
 
