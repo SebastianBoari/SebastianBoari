@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Edad / Age: 24<br>Ubicacion / Location: CABA, Buenos Aires, Argentina.<br><br>Educacion / Education: <br>Teclab: Tecnico Superior en Programacion - (2021 - Actualidad / In progress)<br><br>Coderhouse: Full stack developer - (2022 - Actualidad / In progress)<br><br> Platzi Education Platform - ( 2022 - Actualidad / In progress). Mi perfil / My profile: https://platzi.com/p/luciosebastianboari/</p>
+<p align="left">Edad / Age: 24 years old<br>Ubicacion / Location: CABA, Buenos Aires, Argentina.<br><br>Educacion / Education: <br>Teclab: Tecnico Superior en Programacion - (2021 - Actualidad / Present)<br><br>Coderhouse: Full stack developer - (2022 - Actualidad / Present)<br><br> Platzi Education Platform - ( 2022 - Actualidad / Present). Mi perfil / My profile: https://platzi.com/p/luciosebastianboari/</p>
 
 ###
 
