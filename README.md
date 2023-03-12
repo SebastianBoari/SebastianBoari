@@ -1,4 +1,4 @@
-# Hello! 👋 I'm Sebastian Boari
+# Hi! 👋 I'm Sebastian Boari
 ## As a software development student, I am very excited to put everything I learn into practice and document my progress.
 
 I am currently learning and practicing to become a full-stack web developer. I am **Frontend ReactJS developer** and I live in Argentina. I am currently studying a Higher Technician in Programming.
