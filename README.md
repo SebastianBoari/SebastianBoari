@@ -1,16 +1,14 @@
-<h1 align="left">Hey!</h1>
+# Hello! 👋 I'm Sebastian Boari
+## As a software development student, I am very excited to put everything I learn into practice and document my progress.
 
-###
+I am currently learning and practicing to become a full-stack web developer. I am **Frontend ReactJS developer** and I live in Argentina. I am currently studying a Higher Technician in Programming.
 
-<p align="left">My name is Sebastian and I'm a web developer from Argentina.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">Edad / Age: 24 years old<br>Ubicacion / Location: CABA, Buenos Aires, Argentina.<br><br>Educacion / Education: <br>Teclab: Tecnico Superior en Programacion - (2021 - Actualidad / Present)<br><br>Coderhouse: Full stack developer - (2022 - Actualidad / Present)<br><br> Platzi Education Platform - ( 2022 - Actualidad / Present). Mi perfil / My profile: https://platzi.com/p/luciosebastianboari/</p>
+| Academy/Institute       | Titulo/Estudio                                                  |
+| ---            |          --                                                       |
+| **Coderhouse** | Full stack developer (2022 - Expected graduation date: August 2023)            | 
+| **Teclab**     | Tecnico Superior en Programacion (2021 - Expected graduation date: December 2023)|
+| [**Platzi**](https://platzi.com/p/luciosebastianboari)     | Online Education Platform - ( 2022 - Current).   |
+| **Undefinedshell Bootcamp**| Free JS Fullstack Bootcamp (2023 - Expected graduation date: July 2023)      |
 
 ###
 
