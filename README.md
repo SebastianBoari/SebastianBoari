@@ -10,14 +10,27 @@ I am currently learning and practicing to become a full-stack web developer. I a
 | [**Platzi**](https://platzi.com/p/luciosebastianboari)     | Online Education Platform - ( 2022 - Current).   |
 | **Undefinedshell Bootcamp**| Free JS Fullstack Bootcamp (2023 - Expected graduation date: July 2023)      |
 
-5 comandos que uso a menudo:
-| Comando              | Descripcion                              |
-|---                   | --                                       |
-|ll                    | alias de ls -l                           |
-|la                    | alias de ls -a                           |
-|cl                    | alias de clear                           |
-|npm run dev           | y rezo que no de error ningun componente |
-|npm install -g sass   | CSS nesting now pls 😞                   |
+
+### 5 commands I learned:
+
+| Command | Description                                                                     |
+|---------|---------------------------------------------------------------------------------|
+| grep    | used to search for text patterns in a file or across multiple files             |
+| find    | is used to search for files and directories in a given path.                    |
+| tar     | it is used to compress and decompress files and directories in a tar archive.   |
+| ssh     |used to connect to a remote server securely                                      |
+| awk     | used to process and manipulate text                                             |
+
+
+### Aliases that I find useful:
+
+| Alias                | Description                              |
+|----------------------|------------------------------------------|
+|ll                    | ls -l                                    |
+|la                    | ls -a                                    |
+|cl                    | lear                                     |
+
+
 
 <!---
 SebastianBoari/SebastianBoari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
