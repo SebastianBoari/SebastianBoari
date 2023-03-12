@@ -3,7 +3,7 @@
 
 I am currently learning and practicing to become a full-stack web developer. I am **Frontend ReactJS developer** and I live in Argentina. I am currently studying a Higher Technician in Programming.
 
-| Academy/Institute       | Titulo/Estudio                                                  |
+| Academy/Institute       | Title/Study                                                |
 | ---            |          --                                                       |
 | **Coderhouse** | Full stack developer (2022 - Expected graduation date: August 2023)            | 
 | **Teclab**     | Tecnico Superior en Programacion (2021 - Expected graduation date: December 2023)|
