@@ -23,14 +23,12 @@ I am currently learning and practicing to become a full-stack web developer. I a
 
 
 ### Aliases that I find useful:
-
-| Alias                | Description                              |
-|----------------------|------------------------------------------|
-|ll                    | ls -l                                    |
-|la                    | ls -a                                    |
-|cl                    | lear                                     |
-
-
+```bash
+alias ll='ls -l'
+alias la='ls -a'
+alias cl='clear'
+alias mostused='history | awk '\''{print $2}'\'' | sort | uniq -c | sort -nr | head -n 10'
+````
 
 <!---
 SebastianBoari/SebastianBoari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
